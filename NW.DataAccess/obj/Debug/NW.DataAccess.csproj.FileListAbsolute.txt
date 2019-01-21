@@ -1,0 +1,12 @@
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NWWebFormsNTierBlank\NW.DataAccess\bin\Debug\NW.DataAccess.dll.config
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NWWebFormsNTierBlank\NW.DataAccess\bin\Debug\NW.DataAccess.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NWWebFormsNTierBlank\NW.DataAccess\bin\Debug\NW.DataAccess.pdb
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NWWebFormsNTierBlank\NW.DataAccess\bin\Debug\EntityFramework.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NWWebFormsNTierBlank\NW.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NWWebFormsNTierBlank\NW.DataAccess\bin\Debug\NW.Entity.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NWWebFormsNTierBlank\NW.DataAccess\bin\Debug\NW.Entity.pdb
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NWWebFormsNTierBlank\NW.DataAccess\bin\Debug\EntityFramework.xml
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NWWebFormsNTierBlank\NW.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NWWebFormsNTierBlank\NW.DataAccess\obj\Debug\NW.DataAccess.csprojResolveAssemblyReference.cache
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NWWebFormsNTierBlank\NW.DataAccess\obj\Debug\NW.DataAccess.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NWWebFormsNTierBlank\NW.DataAccess\obj\Debug\NW.DataAccess.pdb

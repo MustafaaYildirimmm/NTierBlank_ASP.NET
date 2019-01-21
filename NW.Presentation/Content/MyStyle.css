@@ -1,0 +1,26 @@
+﻿.rptHeader 
+{
+    background-color:#ff6a00;
+    width:250px;
+    margin-bottom:0px;
+}
+
+.divstyle 
+{
+    width:250px;
+    padding:10px 0px 0px 25px;
+}
+
+.rptItem 
+{
+    background-color:#ff0000;
+}
+.rptAlternatingItem 
+{
+    background-color:#808080;
+}
+
+#footer 
+{
+    background-color:#ffd800;
+}

@@ -1,0 +1,10 @@
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NWWebFormsNTierBlank\NW.Entity\bin\Debug\NW.Entity.dll.config
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NWWebFormsNTierBlank\NW.Entity\bin\Debug\NW.Entity.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NWWebFormsNTierBlank\NW.Entity\bin\Debug\NW.Entity.pdb
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NWWebFormsNTierBlank\NW.Entity\bin\Debug\EntityFramework.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NWWebFormsNTierBlank\NW.Entity\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NWWebFormsNTierBlank\NW.Entity\bin\Debug\EntityFramework.xml
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NWWebFormsNTierBlank\NW.Entity\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NWWebFormsNTierBlank\NW.Entity\obj\Debug\NW.Entity.csprojResolveAssemblyReference.cache
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NWWebFormsNTierBlank\NW.Entity\obj\Debug\NW.Entity.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NWWebFormsNTierBlank\NW.Entity\obj\Debug\NW.Entity.pdb
